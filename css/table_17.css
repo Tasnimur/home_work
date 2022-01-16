@@ -1,0 +1,12 @@
+table{
+	width: 100%;
+	border: 1px solid black;
+}
+th,td{
+	font-size: 20 px ;
+	text-align: center;
+	border: 1px solid black ;
+}
+td:hover{
+	background: #ddd;
+}

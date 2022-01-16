@@ -1,0 +1,15 @@
+div{
+	width: 80%;
+	margin: 0 auto;
+	border: 5px solid #ddd;
+	background: lightblue;
+}
+label{
+	font-size: 25px;
+}
+.first_name,.last_name,.email,.password{
+	width: 90%;
+	height: 25px;
+	padding: 10px;
+	font-size: 18px;
+}
